@@ -76,8 +76,4 @@ These LUTs can be used for:
 - Interpolation across VDS or length is **not included in this repository** at the moment.
 - Data is intended for **design-space exploration and initial sizing**.
 
----
 
-## 📜 License
-
-For academic and research use.

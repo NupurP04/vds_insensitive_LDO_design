@@ -51,15 +51,6 @@ All CSV files follow a consistent structure:
 
 ---
 
-##  Process Information
-
-- **Technology node:** 180 nm CMOS  
-- **Device types:** NMOS and PMOS  
-- **Extraction:** Device-level simulations  
-- **Bias condition:** Fixed VDS per LUT
-
----
-
 ##  Intended Use
 
 These LUTs can be used for:
@@ -70,7 +61,7 @@ These LUTs can be used for:
 
 ---
 
-## 📄 Notes
+##  Notes
 
 - LUTs are extracted independently at each VDS value.
 - Interpolation across VDS or length is **not included in this repository** at the moment.
